@@ -1,3 +1,3 @@
 # Jean-Paul Bodeveix
 **Thesis proposal for 2022:**
-- [icspa.pdf](./icspa.pdf)
+- [Composition of set-theory based models](./icspa.pdf)
