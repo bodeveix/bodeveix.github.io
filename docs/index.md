@@ -1,2 +1,3 @@
 # Jean-Paul Bodeveix
-[icspa.pdf](./icspa.pdf)
+**Thesis proposal for 2022:**
+- [icspa.pdf](./icspa.pdf)
